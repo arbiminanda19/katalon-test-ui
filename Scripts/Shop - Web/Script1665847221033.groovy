@@ -38,3 +38,5 @@ WebUI.click(findTestObject('Object Repository/Page_Swag Labs Apps/Page_Swag Labs
 
 WebUI.click(findTestObject('Object Repository/Page_Swag Labs Apps/Page_Swag Labs/button_Back Home'))
 
+WebUI.closeBrowser()
+
